@@ -1,1 +1,1 @@
-# Diabetes-Guard-App-Development-Using-R-Shiny-Individual-
+# Diabetes Guard App Development Using RShiny (Individual)
