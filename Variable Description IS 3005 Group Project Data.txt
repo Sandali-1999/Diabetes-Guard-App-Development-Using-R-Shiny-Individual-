@@ -1,0 +1,78 @@
+What is your current academic year at the University of Colombo? - Academic_Year
+
+What is your specialization? - Special_Degree
+
+What is your gender - Gender
+
+What is your current GPA? - GPA
+
+Which statistical software have you used in your coursework? (Select all that apply)- Coursework_Stat_Software_Used
+
+On a scale of 1-5 rate your proficiency in the following statistical software you've used (1 being novice, 5 being expert) [R / Python]-
+Proficiency_Ratings_R/Python
+
+On a scale of 1-5 rate your proficiency in the following statistical software you've used (1 being novice, 5 being expert) [SPSS / Minitab]-
+Proficiency_Ratings_Spss/Minitab
+
+On a scale of 1-5 rate your proficiency in the following statistical software you've used (1 being novice, 5 being expert) [Excel]- 
+Proficiency_Ratings_Excel
+
+On a scale of 1-5 rate your proficiency in the following statistical software you've used (1 being novice, 5 being expert) [PowerBI/Tabulae]- Proficiency_Ratings_PowerBI/Tabulae
+
+Rate your usage in the following statistical software for academic purposes [R / Python]- Usage_Rating_Acedemic_R/Python
+
+Rate your usage in the following statistical software for academic purposes [SPSS / Minitab]- Usage_Rating_Acedemic_SPSS/Minitab
+
+Rate your usage in the following statistical software for academic purposes [Excel]- Usage_Rating_Acedemic_Excel
+
+Rate your usage in the following statistical software for academic purposes [PowerBI / Tabulae]- Usage_Rating_Acedemic_PowerBI/Tabulae
+
+Select the domains in which you have applied each software [R]- Domains_Applied_In_R
+
+Select the domains in which you have applied each software [Python]- Domains_Applied_In_Python
+
+Select the domains in which you have applied each software [SPSS]- Domains_Applied_In_SPSS
+
+Select the domains in which you have applied each software [Minitab]- Domains_Applied_In_Minitab
+
+On a scale of 1-5 rate your proficiency in the following areas (1 being novice, 5 being expert) [Operating video conferences (Zoom / MS Teams)]- Proficiency_Rating_Video_Conference
+
+On a scale of 1-5 rate your proficiency in the following areas (1 being novice, 5 being expert) [Presentation tools (MS Powerpoint)]-Proficiency_Rating_Presentation_Tools 
+
+On a scale of 1-5 rate your proficiency in the following areas (1 being novice, 5 being expert) [Documentation tools (Word/ LaTex Editors like Overleaf)]- Proficiency_Rating_Documentation_Tools 
+
+On a scale of 1-5 rate your proficiency in the following areas (1 being novice, 5 being expert) [Google apps (Chrome / Drive / Classroom)]- Proficiency_Rating_Google_Apps 
+
+Rate your usage in the following areas for academic purposes  [Operating video conferencing (Zoom / MS Teams)-Usage_Rating_Video_Conference
+
+Rate your usage in the following areas for academic purposes  [Presentation tools (MS Powerpoint)]- Usage_Rating_Presentation_Tools
+
+Rate your usage in the following areas for academic purposes  [Documentation tools (Word/ LaTex Editors like Overleaf)]- Usage_Rating_Documentation_Tools 
+
+Rate your usage in the following areas for academic purposes  [Google apps (Chrome / Drive / Classroom)]- Usage_Rating_Google_Apps
+
+Have you faced challenges in courses due to inadequate technological skills (analytical, coding, etc.)?- Have_Challenges_Due_To_Inadequate_Tech_Skills
+
+If_yes, specify the reason- Challenges_Due_To_Inadequate_Tech_Skills
+
+What are the methods you used to enhance your technological skills? (If there's any)- Tech_Skill_Enhancement_Methods
+
+How often do you use laptops/ tablets etc. for academic purposes? (Approximately in hours per week)- Device_Usage_Hours_Per_Week_For_Academic 
+
+Do you believe that technological proficiency significantly impacts academic performance in statistics-related courses?- 
+Tech_Proficiency_Acedemic_Stat_Performance
+
+Have you experienced instances where a lack of technological skills hindered your understanding or performance in statistics courses?- Have_Faced_Problems_Because_Lack_Of_Tech_Skills
+
+Apart from the technological tools that are already in your curriculum, are there any other tools you would like to be added to the curriculum to enhance the overall learning and academic performance?- Additional_Learning_Tools_Preference
+
+Has the use of technology positively or negatively influenced your time management skills in relation to academic tasks?- Tech_Influence_Impact_On_Time_Management
+
+Elaborate the reasons behind this influence briefly- Reason_Tech_Influence_Impact_On_Time_Management
+
+Is there anything else you'd like to share regarding the connection between technological literacy and academic performance in statistics?- Any_else_Idea_Tech_Literacy_Acedemic_Preformance_Stat_Connection
+
+
+
+
+
